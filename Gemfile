@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "google-api-client"
-gem "rubocop"
+# Specify your gem's dependencies in yt-sub.gemspec
+gemspec
